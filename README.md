@@ -14,12 +14,13 @@
 </p>
 
 <p>
-  <img src="./assets/new.png" alt="New Update Animation" width="50" style="vertical-align: middle;">
+  <img src="./assets/new.png" alt="New Update" width="50" style="vertical-align: middle;">
   <strong>Recent Update (2025-02-04):</strong>
 </p>
 
-> New images have been added to enhance the **Overview of Agentic RAG** and **Agentic Workflow Patterns** sections. The <a href="https://arxiv.org/pdf/2501.09136">paper</a> is also updated.
-> 
+> Check section 4 in the table of contents in this repo for the new **Agentic Workflow Patterns**.
+> New images have been added to enhance the **Overview of Agentic RAG**. The <a href="https://arxiv.org/pdf/2501.09136">paper</a> is also updated.
+
 <!-- 
 This repository accompanies the paper "Agentic Retrieval-Augmented Generation : A Survey On Agentic RAG," providing supplementary materials, visualizations, and insights into the taxonomy, applications, and challenges of Agentic RAG systems. The goal is to facilitate understanding and adoption of these advanced paradigms by researchers and practitioners. -->
 
