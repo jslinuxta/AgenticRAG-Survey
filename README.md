@@ -1,10 +1,10 @@
 # Agentic Retrieval-Augmented Generation : A Survey On Agentic RAG
 
-<div style="text-align: center;">
+<p align="center">
   <img src="./assets/overview_agentic_rag.svg" alt="Agentic RAG Overview">
   <br>
   <strong>Overview of Agentic RAG</strong>
-</div>
+</p>
 <br><br>
 <p align="center">
   <!-- GitHub Stats -->
